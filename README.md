@@ -14,7 +14,7 @@ O **Event Calendar** é um aplicativo Android nativo desenvolvido em **Kotlin** 
 
 | Tela de Splash (Lottie) | Lista de Eventos & Busca | Detalhes do Evento |
 | :---: | :---: | :---: |
-| <img src="screenshots/splash.png" width="250" alt="Splash Screen"/> | <img src="screenshots/eventos.png" width="250" alt="Lista de Eventos"/> | <img src="screenshots/detalhes.png" width="250" alt="Detalhes do Evento"/> |
+|<img width="1080" height="2424" alt="Image" src="https://github.com/user-attachments/assets/a242b68f-5a17-4362-84ec-a01210fde1d1" /> | <img src="screenshots/eventos.png" width="250" alt="Lista de Eventos"/> | <img src="screenshots/detalhes.png" width="250" alt="Detalhes do Evento"/> |
 
 ---
 

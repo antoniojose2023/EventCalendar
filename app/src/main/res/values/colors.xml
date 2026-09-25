@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gree">#1F6F64</color>
+    <color name="gree50">#43BFAF</color>
+    <color name="gree80">#68EDDA</color>
+    <color name="terracota">#C1622D</color>
+    <color name="blue">#3454D1</color>
+    <color name="roxo">#8B4B9E</color>
+    <color name="gray">#737376</color>
+    <color name="greemusic">#EAF3E9</color>
+
+</resources>
+
+
+
